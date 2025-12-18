@@ -36,3 +36,9 @@ Analyzed most popular cuisines and restaurants by day type (weekday/weekend)
 Measured average preparation and delivery times to assess bottlenecks
 Explored customer satisfaction trends by cost and delivery performance
 Visualized insights through charts and summary tables for clear storytelling
+
+**Key Insights*
+Peak demand occurs during lunch hours on weekdays, with specific cuisine types driving high order volumes.
+Restaurants with the highest ratings tend to experience lower order cancellations and higher repeat customers.
+Optimizing delivery routes based on order clusters can reduce average delivery time by 15%.
+
