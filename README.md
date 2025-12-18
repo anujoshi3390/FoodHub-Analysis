@@ -1,4 +1,4 @@
-**FoodHub Delivery Data Analysis**
+**Business Data Analysis: Optimizing Restaurant Demand Forecasting and Customer Experience**
 
 **Context**
 
@@ -10,10 +10,10 @@ This project analyzes historical order data from FoodHub to extract actionable i
 
 The goal of this project is to analyze customer order data to help FoodHub:
 
-Understand the popularity of various restaurants and cuisines
-Assess food preparation and delivery times
-Identify trends in customer behavior across weekdays and weekends
-Optimize logistics and enhance customer experience
+- Understand the popularity of various restaurants and cuisines
+- Assess food preparation and delivery times
+- Identify trends in customer behavior across weekdays and weekends
+- Optimize logistics and enhance customer experience
 
 **Data Description**
 
